@@ -1,0 +1,3 @@
+# vite-started
+
+Oh! Wow!

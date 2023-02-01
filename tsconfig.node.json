@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true
+  },
+  "include": [
+    "*.config.js",
+    "*.config.ts"
+  ]
+}
